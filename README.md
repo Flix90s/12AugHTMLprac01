@@ -10,4 +10,9 @@ abbr dfn time
 nav
 section
 
+18th August 2024: Missed the class.
+Started watching the recorded session from 20th August 2024.
+failed the commit as i forgot to mention the comment.
+
+
 
