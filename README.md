@@ -14,5 +14,8 @@ section
 Started watching the recorded session from 20th August 2024.
 failed the commit as i forgot to mention the comment.
 
+22Aug but recorded video is 18thAug
+colours are choosed either in Visual Studio or htmlcolorcodes.com
+
 
 
