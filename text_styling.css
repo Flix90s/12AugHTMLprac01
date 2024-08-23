@@ -1,3 +1,23 @@
 body{
-    background-image: url("images\githu.png");
+    background-image: url("images/githu.png");
+    background-repeat: no-repeat;
+}
+div{
+    border: 2px solid bisque;
+    padding: 8px;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: antiquewhite
+}
+p{
+    color: darkmagenta;
+    text-indent: 75px;
+    text-align: justify;
+    letter-spacing: 3px;
+}
+a{
+    text-decoration: solid;
+    color: darkturquoise;
 }
