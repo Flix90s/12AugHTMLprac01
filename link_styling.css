@@ -1,0 +1,22 @@
+img{
+    float: right;
+}
+p{
+    text-align: center;
+}
+body{
+    display: inline-block;
+    background-color: lightseagreen;
+}
+a{
+    background-color:lightcoral;
+}
+a:visited{
+    background-color: lightgreen;
+}
+a:hover{
+    background-color: lightsalmon;
+}
+a:active{
+    background-color: lightpink;
+}

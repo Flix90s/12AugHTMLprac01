@@ -17,5 +17,12 @@ failed the commit as i forgot to mention the comment.
 22Aug but recorded video is 18thAug
 colours are choosed either in Visual Studio or htmlcolorcodes.com
 
+23Aug
+anchor
+block n inline elements
+css float element (margin or aside)
+clear
+css positioning
+
 
 
