@@ -24,5 +24,24 @@ css float element (margin or aside)
 clear
 css positioning
 
+27thAug(24th Aug session). start 1:34:46
+
+I-Learning objective of Js fundamentals is:
+    1- about JS and DOM.
+    2- variables, data types and operators.
+    3- conditions and loops.
+    4- use of arrays.
+    5- handling and manipulating strings.
+    6- functions to manipulate data.
+    7- using AI coding assisstants, for analying and application.
+
+II- JS, why, benefits and applications of js.(Intro to js)
+
+III-JS basics(js basics)
+    1- DOM, DOM-Model, DOM Nodes, DOM Elements, DOM and js, DOM programming interface , 
+    2- Methods off DOM ***
+    3- practise html and js. end
+
+
 
 
