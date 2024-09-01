@@ -1,0 +1,28 @@
+<!DOCTYPe html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Login Form</h2>
+    <form action="POST" onsubmit="validation()">
+        <input type="text" id="user" placeholder="Enter the user name"><br>
+        <input type="password" id="pwd" placeholder="Enter the password"><br>
+        <input type="submit" value="submit" id="sub">
+    </form>
+    <script>
+        function validation(){
+            var username = document.getElementById('user').value;
+            var pwd = document.getElementById('pwd').value;
+            if(username == 'pooja' && pwd == 'pooja'){
+                window.alert('user details are correct');
+            }else {
+                window.alert('user details are incorrect')
+            }
+        }
+    </script>
+
+</body>
+</html>
