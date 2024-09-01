@@ -42,6 +42,25 @@ III-JS basics(js basics)
     2- Methods off DOM ***
     3- practise html and js. end
 
+September 1: C:\Users\user\Documents\001lms\ebooks\Lesson_04_JavaScript Fundamentals
+
+--> MultiDimensional Array [***Taught]
+--> create a obj and function. call the functions using objects.
+--> map
+--> map vs obj.
+
+
+**
+note:
+--include the path name by using relative path, use /(forward slash first and then paste the path).
+--typeof
+--callack explained(C:\Users\user\Documents\001lms\ebooks\Lesson_04_JavaScript Fundamentals functions topic)
+--function returning function same as above.
+-- 
+
+
+
+
 
 
 
